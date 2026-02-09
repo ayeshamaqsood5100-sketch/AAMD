@@ -1,2 +1,0 @@
-# AAMD
-Initial test push
